@@ -1,6 +1,8 @@
 # Real-time-Face-Detection
 Python code for real-time face detection using your computer's webcam
 
+![face and eyes detection image](https://github.com/jaotheboss/Real-time-Face-Detection/blob/master/eyes-and-face-detection.jpeg)
+
 ## Description:
 When the python script is executed on your computers' Terminal, it should open your webcam and be able to detect both your eyes and your face
 
